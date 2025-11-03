@@ -1,4 +1,4 @@
-## 👩🏻‍💻Luana Kanitz
+## 👩‍💻Luana Kanitz
 
 **Estudante TI**
 
