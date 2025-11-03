@@ -1,5 +1,14 @@
-## Hi there 👋
+## 👩🏻‍💻Luana Kanitz
 
+**Estudante TI**
+
+Me chamo Luana de Lima Kanitz, tenho 19 anos e sou natural do Rio Grande do Sul. Curso Análise e Desenvolvimento de Sistemas na PUCRS e estou iniciando minha trajetória na área de tecnologia, com interesse especial em desenvolvimento de software e soluções.
+
+📚 Em aprendizado: fundamentos de programação e lógica computacional.
+
+🎯 Objetivo: desenvolver habilidades práticas e contribuir para projetos que unam eficiência e propósito.
+
+“O começo é o primeiro passo de toda grande conquista.”
 <!--
 **Luana0010/Luana0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
