@@ -1,25 +1,27 @@
-## 👩‍💻Luana Kanitz
+<h2 align="center">👩‍💻 <strong>Luana de Lima Kanitz</strong></h2>
 
-**Estudante TI**
+<p align="center"><em>Estudante de Análise e Desenvolvimento de Sistemas | PUCRS</em></p>
 
-Me chamo Luana de Lima Kanitz, tenho 19 anos e sou natural do Rio Grande do Sul. Curso Análise e Desenvolvimento de Sistemas na PUCRS e estou iniciando minha trajetória na área de tecnologia, com interesse especial em desenvolvimento de software e soluções.
+---
 
-📚 Em aprendizado: fundamentos de programação e lógica computacional.
+### 💫 Sobre mim
+Sou **Luana**, tenho 19 anos e sou do **Rio Grande do Sul** 🇧🇷.  
+Atualmente curso **Análise e Desenvolvimento de Sistemas na PUCRS** e estou construindo minha trajetória na área de **Tecnologia da Informação**, com foco em **desenvolvimento de software** e **soluções criativas** que realmente façam diferença.
 
-🎯 Objetivo: desenvolver habilidades práticas e contribuir para projetos que unam eficiência e propósito.
+---
 
-“O começo é o primeiro passo de toda grande conquista.”
-<!--
-**Luana0010/Luana0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 Em aprendizado
+- Fundamentos de programação  
+- Lógica computacional  
+- Conceitos de front-end, back-end e desenvolvimento web  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Objetivo
+Aprender de forma contínua e aplicar meus conhecimentos em projetos que unam **eficiência, propósito e inovação**.  
+
+
+
+<p align="center"><em>“O começo é o primeiro passo de toda grande conquista.”</em></p>
+
+---
