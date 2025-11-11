@@ -13,7 +13,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas na PUCRS** e estou con
 ### 📚 Em aprendizado
 - Fundamentos de programação  
 - Lógica computacional  
-- Conceitos de front-end, back-end e desenvolvimento web  
+- Conceitos de front-end e desenvolvimento mobile 
 
 ---
 
